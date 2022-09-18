@@ -1,3 +1,4 @@
+require('dotenv').config()
 const sql = require('mssql')
 const sqlConfig = require('./dbconfig')
 const express = require('express')

@@ -167,3 +167,6 @@ compile_commands.json
 
 # === Ustawienia indywidualne dla MsSQl ===
 dbconfig.js
+
+# === Ustawienia ignorowania ENV ===
+.env
